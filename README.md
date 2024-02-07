@@ -58,6 +58,6 @@ Para la aplicación también tratamos de tener un diseño o Layout de acuerdo a 
 Al final el resultado fue favorable, funcional y logramos las competencias que no habíamos planteado.
 
 <p align="center">
-    <img src="[https://skillicons.dev/icons?i=pug,tailwind,mysql,express,nodejs](https://eloctavobit.com/wp-content/uploads/2020/08/conectar-modulo-bluetooth.jpg)https://eloctavobit.com/wp-content/uploads/2020/08/conectar-modulo-bluetooth.jpg"/>
+    <img src="https://eloctavobit.com/wp-content/uploads/2020/08/conectar-modulo-bluetooth.jpg"/>
   <br>
 <br>
